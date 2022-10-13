@@ -14,14 +14,6 @@ const Wallet = () => {
                     <h4 className='content-title'>Your assets</h4>
                     <div class="card-layout">
                         <div class="card-layout__item">
-                            Utopium
-                            <div class="card-balance__item">
-                                2,000,000 UTP
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card-layout">
-                        <div class="card-layout__item">
                             Bitcoin
                             <div class="card-balance__item">
                                 0.0723 BTC
@@ -41,6 +33,22 @@ const Wallet = () => {
                             Binance Coin
                             <div class="card-balance__item">
                                 1.956 BNB
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-layout">
+                        <div class="card-layout__item">
+                            Utopium
+                            <div class="card-balance__item">
+                                1,791,000 UTP
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-layout">
+                        <div class="card-layout__item">
+                            Dexrium
+                            <div class="card-balance__item">
+                                181,000 DXR
                             </div>
                         </div>
                     </div>
