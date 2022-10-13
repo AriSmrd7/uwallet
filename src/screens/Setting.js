@@ -1,10 +1,11 @@
 import React from 'react'
 import BottomNavBar from '../components/BottomNavBar'
+import HeaderNavbar from '../components/HeaderNavbar'
 
 const Setting = () => {
     return (
         <div>
-            <h1 className='text-center'>Setting Page</h1>
+            <HeaderNavbar/>
             <BottomNavBar name='setting' />
         </div>
     )

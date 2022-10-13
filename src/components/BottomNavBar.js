@@ -33,12 +33,12 @@ const BottomNavBar = props => {
             <div className='bn-tab'>
                 {activeTabs === 'wallet' ?
                     <IoWallet
-                        size='35'
+                        size='26'
                         color='#3330E4'
                         onClick={() => setActiveTabs('wallet')}
                     /> :
                     <IoWalletOutline
-                        size='35'
+                        size='26'
                         color='#525252'
                         onClick={() => setActiveTabs('wallet')}
                     />}
@@ -46,12 +46,12 @@ const BottomNavBar = props => {
             <div className='bn-tab'>
                 {activeTabs === 'market' ?
                     <IoBarChart
-                        size='28'
+                        size='21'
                         color='#3330E4'
                         onClick={() => setActiveTabs('market')}
                     /> :
                     <IoBarChartOutline
-                        size='28'
+                        size='21'
                         color='#525252'
                         onClick={() => setActiveTabs('market')}
                     />}
@@ -59,12 +59,12 @@ const BottomNavBar = props => {
             <div className='bn-tab'>
                 {activeTabs === 'swap' ?
                     <RiExchangeFill
-                        size='33'
+                        size='26'
                         color='#3330E4'
                         onClick={() => setActiveTabs('swap')}
                     /> :
                     <RiExchangeLine
-                        size='33'
+                        size='26'
                         color='#525252'
                         onClick={() => setActiveTabs('swap')}
                     />}
@@ -72,12 +72,12 @@ const BottomNavBar = props => {
             <div className='bn-tab'>
                 {activeTabs === 'setting' ?
                     <AiTwotoneSetting
-                        size='33'
+                        size='25'
                         color='#3330E4'
                         onClick={() => setActiveTabs('setting')}
                     /> :
                     <AiOutlineSetting
-                        size='33'
+                        size='25'
                         color='#525252'
                         onClick={() => setActiveTabs('setting')}
                     />}

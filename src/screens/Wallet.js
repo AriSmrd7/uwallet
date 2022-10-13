@@ -1,10 +1,11 @@
 import React from 'react'
 import BottomNavBar from '../components/BottomNavBar'
+import HeaderNavbar from '../components/HeaderNavbar'
 
 const Wallet = () => {
     return (
         <div>
-            <h1>Wallet Page</h1>
+            <HeaderNavbar/>
             <BottomNavBar name='wallet' />
         </div>
     )
