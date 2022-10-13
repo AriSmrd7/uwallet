@@ -30,7 +30,7 @@ const Wallet = () => {
                     </div>
                     <div class="card-layout">
                         <div class="card-layout__item">
-                            Binance Coin
+                            Binance Smart Chain
                             <div class="card-balance__item">
                                 1.956 BNB
                             </div>
@@ -57,6 +57,22 @@ const Wallet = () => {
                             Hecodex
                             <div class="card-balance__item">
                                 1,302,000 HECO
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-layout">
+                        <div class="card-layout__item">
+                            Paracetamol Inu
+                            <div class="card-balance__item">
+                                2,114,000 PCI
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-layout">
+                        <div class="card-layout__item">
+                            Hystrix Network
+                            <div class="card-balance__item">
+                                1,529,900 HRX
                             </div>
                         </div>
                     </div>
