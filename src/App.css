@@ -73,8 +73,7 @@ h4{
   padding: 0 10px 50px 10px;
 }
 .content h4{
-  padding: 10px;
-  margin: 0 0 5px 0;
+  padding: 10px 0 2px 5px;
   color: #3330e4;
   font-weight: 600;
 }
