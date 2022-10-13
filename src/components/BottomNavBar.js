@@ -1,7 +1,5 @@
 import { useState, useEffect } from 'react'
 import { useHistory } from 'react-router-dom'
-
-import { RiFolderChartFill, RiFolderChartLine } from 'react-icons/ri'
 import { AiTwotoneSetting, AiOutlineSetting } from 'react-icons/ai'
 import { RiExchangeLine, RiExchangeFill } from 'react-icons/ri'
 import { IoWalletOutline, IoWallet, IoBarChart, IoBarChartOutline } from "react-icons/io5";
