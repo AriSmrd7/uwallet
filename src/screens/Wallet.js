@@ -44,6 +44,14 @@ const Wallet = () => {
                             </div>
                         </div>
                     </div>
+                    <div class="card-layout">
+                        <div class="card-layout__item">
+                            Hecodex
+                            <div class="card-balance__item">
+                                1,302,000 HECO
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <BottomNavBar name='wallet' />
